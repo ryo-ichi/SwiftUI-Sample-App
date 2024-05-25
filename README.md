@@ -4,8 +4,8 @@ SwiftUIフレームワークの文法、各機能、Xcodeの使い方学ぶ初�
 
 ## 概要
 **アニメーション**
-・ sample1:フェードアウト/Button
-・ sample2:回転
-・ sample3
-
-
+* sample1 ： フェードアウト/Button
+* sample2 ： 回転
+* sample3 ： 膨張
+  
+ 
