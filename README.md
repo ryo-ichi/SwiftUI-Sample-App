@@ -1,4 +1,4 @@
-![SwiftUI-Img](./SwiftUI-Img.png)
+![SwiftUI_Img](./SwiftUI_Img.png)
 ## 制作の意図
 SwiftUIフレームワークの文法、各機能、Xcodeの使い方学ぶ初歩として制作した、簡易的機能のサンプルです。
 
