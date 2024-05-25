@@ -42,4 +42,4 @@ UIKitで作られていたネット上のものを、SwiftUIに作り変える�
 * 課題11---配列/Switch文
 * 課題12---税込計算
 * 課題14---リスト項目の追加
-* Demo-Listediting---TODOリスト
+* Demo-Listediting---永続化(UserDefaults)
