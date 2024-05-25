@@ -1,2 +1,2 @@
 # readme-test２
-![SwiftUI-Img]./SwiftUI-Img.png
+![SwiftUI-Img0.5]./SwiftUI-Img0.5.png
