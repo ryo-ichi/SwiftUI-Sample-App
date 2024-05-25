@@ -5,3 +5,4 @@ SwiftUIフレームワークの基礎文法、各機能の実装イメージを�
 **アニメーション**
 * sample1--フェードイン / Button
 * sample2--回転
+* sample4--大小
